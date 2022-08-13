@@ -601,13 +601,13 @@ body {
 .portfolio .portfolio-content .comment {
     display: flex;
     width:95vw;
-    height: 464px;
+    height:464px;
     justify-content: center;
-    margin: 30px auto;
+    margin: 30px -5vw;
 }
 
 .portfolio .portfolio-content .comment .text {
-    width: 60%;
+    width:55%;
     height: 350px;
     color: #fff;
     background: #53389E;
@@ -713,7 +713,7 @@ body {
 .case .case-content .questions h2 .plus {
     font-size: 20px;
     position: absolute;
-    right:30vw;
+    right:15vw;
     padding: 0;
     border: 1px solid #101828;
     border-radius: 50%;
@@ -1511,5 +1511,9 @@ footer .social-icons a i {
     }
     .max-width {
         width: 320px;
+    }
+    .case .case-content .questions h2 .plus {
+        right:-10vw;
+
     }
 }
