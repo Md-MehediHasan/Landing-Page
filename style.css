@@ -1502,4 +1502,7 @@ footer .social-icons a i {
     .max-width {
         width: 320px;
     }
+    .menu-btn{
+        left:30vw;
+    }
 }
