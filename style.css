@@ -1091,11 +1091,10 @@ footer .social-icons a i {
         width: 540px;
     }
 
-    .navbar .menu {
-        position: fixed;
-        height: 100%;
-        width: 100%;
-    }
+  .navbar a .logo {
+    padding-left:1em;
+    width: 5%;
+}
        .navbar .logo img {
            margin:20px 0;
            padding:0;
