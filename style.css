@@ -891,6 +891,7 @@ footer .social-icons a i {
 
     .navbar .menu li {
         display: block;
+        color:#fff;
     }
 
     .navbar .menu li a {
@@ -1038,6 +1039,9 @@ footer .social-icons a i {
         height: 100vh;
         width: 100vw;
     }
+    .navbar ul li a{
+        color:#fff;
+      }
     .navbar .menu-btn {
       right:15%;
     }
@@ -1110,6 +1114,7 @@ footer .social-icons a i {
       padding-left: 1em;
       width: 5%;
   }
+
     .home .home-content .image {
         width: 100%;
         display: block;
@@ -1409,7 +1414,7 @@ footer .social-icons a i {
     .portfolio-content,
     .case-content,
     .about-content {
-        max-width: 100vw;
+        max-width: 95vw;
     }
 
     .navbar .menu {
