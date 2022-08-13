@@ -125,7 +125,7 @@ body {
 
 .menu-btn {
     position: absolute;
-    right: 19px;
+    right:3vw;
     display: none;
 }
 
@@ -873,7 +873,7 @@ footer .social-icons a i {
         height: 100vh;
         width: 100vw;
         display: block;
-        background: #111;
+        background: #bce1e7;
         left: -100%;
         top: 0;
         text-align: center;
@@ -900,7 +900,7 @@ footer .social-icons a i {
     .navbar .menu-btn {
         display: block;
         font-size: 25px;
-        z-index: 999;
+        right:5%;
         color: #53389E;
     }
 
