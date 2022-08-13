@@ -540,7 +540,7 @@ body {
     background: #afa5c8;
     border-radius: 50%;
     padding: 12px;
-    margin: 10px 15px 10px 49%;
+    margin: 10px 15px 10px 0;
 }
 
 .portfolio .portfolio-content .heading h2 {
