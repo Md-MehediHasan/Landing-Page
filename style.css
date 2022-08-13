@@ -1083,7 +1083,7 @@ footer .social-icons a i {
 
 @media(max-width:540px) {
     html,body{
-       width:100vw;
+       width:100%;
        overflow-x: hidden;
     }
 
