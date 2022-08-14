@@ -1072,7 +1072,6 @@ footer .social-icons a i {
         text-align: center;
         font-size: 16px;
         line-height: 24px;
-
         margin: 30px 0 30px 25%;
     }
 
@@ -1406,10 +1405,6 @@ footer .social-icons a i {
         width: 425px;
     }
 
-    /* .navbar .menu-btn {
-        ;
-    } */
-
     .home-content,
     .service-content,
     .portfolio-content,
@@ -1424,7 +1419,9 @@ footer .social-icons a i {
         height: 100vh;
     }
 
-    .services .services-content .inner-items .item {
+    .services .services-content .inner-items {
+        margin=left:0;
+        padding-left:0;
         width: 95vw;
     }
 }
@@ -1451,7 +1448,7 @@ footer .social-icons a i {
     }
 
     .services .service-content .inner-items .part {
-        width: 100vw;
+        width:95vw;
     }
 
     .portfolio .portfolio-content .comment {
@@ -1477,10 +1474,6 @@ footer .social-icons a i {
         line-height: 15px;
         ;
         top: 10%;
-    }
-
-    .services .services-content .inner-items .item {
-        width: 95vw;
     }
 
     footer {
@@ -1512,6 +1505,11 @@ footer .social-icons a i {
     }
     .max-width {
         width: 320px;
+    }
+      .services .services-content .inner-items {
+        margin=left:0;
+        padding-left:0;
+        width: 95vw;
     }
     .case .case-content .questions h2 .plus {
         right:-10vw;
