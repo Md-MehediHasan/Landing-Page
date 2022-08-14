@@ -213,7 +213,7 @@ body {
 
 .services .services-content .inner-items {
     display: flex;
-    margin: 30px 10px 30px 10px;
+    margin: 30px auto;
 }
 
 .services .services-content .inner-items .item {
@@ -876,7 +876,7 @@ footer .social-icons a i {
 
     .navbar .menu {
         position: fixed;
-        height: 100vh;
+        height: 100%;
         width: 100vw;
         display: block;
         background:rgb(65, 8, 120);
@@ -885,18 +885,20 @@ footer .social-icons a i {
         text-align: center;
         padding-top: 50px;
         transition: 0.3s all ease;
+        overflow-y:hidden;
 
     }
 
     .navbar .menu li {
         display: block;
-        color:#fff;
     }
 
     .navbar .menu li a {
         display: inline-block;
         margin: 20px 0;
         font-size: 25px;
+        color:#fff;
+        
 
     }
 
@@ -1126,13 +1128,9 @@ footer .social-icons a i {
         margin: 0;
     }
 
-    .services .services-content .inner-items part {
+    .services .services-content .inner-items .part {
         width: 90%;
     }
-    .services .services-content .inner-items .item span {
-        margin-left:0;
-    }
-
     .services .services-content .sales_services .box {
         width: 95vw;
         margin: 20px 0;
@@ -1417,8 +1415,8 @@ footer .social-icons a i {
         height: 100vh;
     }
 
-    .services .services-content .inner-items{
-        width: 90%;
+    .services .services-content .inner-items .part{
+        width:95%;
     }
 }
 
@@ -1443,9 +1441,7 @@ footer .social-icons a i {
         left: 45vw;
     }
 
-       .services .services-content .inner-items{
-        margin=left:0;
-        padding-left:0;
+       .services .services-content .inner-items .part{
         width: 90%;
     }
 
@@ -1495,7 +1491,7 @@ footer .social-icons a i {
     }
 }
 
-@media(max-width:320px) {
+@media(max-width:320px){
     html,body{
         width:100%;
         overflow-x:hidden;
@@ -1503,8 +1499,10 @@ footer .social-icons a i {
     .max-width {
         width: 320px;
     }
-        .services .services-content .inner-items{
-        width:85%;
+   
+    .services .services-content .inner-items .part .item{
+        display:inline-block;
+        width:100%;
     }
     .case .case-content .questions h2 .plus {
         right:-10vw;
