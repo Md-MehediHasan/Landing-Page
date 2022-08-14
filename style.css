@@ -1127,8 +1127,7 @@ footer .social-icons a i {
     }
 
     .services .services-content .inner-items part {
-        width: 90vw;
-        margin-left:0;
+        width: 90%;
     }
     .services .services-content .inner-items .item span {
         margin-left:0;
@@ -1419,9 +1418,7 @@ footer .social-icons a i {
     }
 
     .services .services-content .inner-items{
-        margin=left:0;
-        padding-left:0;
-        width: 95vw;
+        width: 90%;
     }
 }
 
@@ -1449,7 +1446,7 @@ footer .social-icons a i {
        .services .services-content .inner-items{
         margin=left:0;
         padding-left:0;
-        width: 90vw;
+        width: 90%;
     }
 
     .portfolio .portfolio-content .comment {
