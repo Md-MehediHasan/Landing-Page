@@ -1135,7 +1135,7 @@ footer .social-icons a i {
     }
 
     .services .services-content .sales_services .box {
-        width: 100vw;
+        width: 95vw;
         margin: 20px 0;
     }
 
@@ -1162,17 +1162,17 @@ footer .social-icons a i {
 
     .services .services-content .projects .pro-des .card .desc {
         margin: 20px 0 20px 0;
-        width: 100vw;
+        width: 95vw;
 
     }
 
     .services .services-content .promising {
-        width: 100vw;
+        width: 95vw;
         display: block;
     }
 
     .services .services-content .promising .card {
-        width: 100vw;
+        width: 95vw;
         margin: 20px 0;
     }
 
@@ -1185,20 +1185,20 @@ footer .social-icons a i {
         margin: 20px 0px 20px 0px;
     }
     .pricing .pricing-content .feature-details {
-        width:90vw;
+        width:95vw;
         box-sizing: border-box;
         margin-left:0;
     }
     
     .pricing .pricing-content .feature-details .feature-column {
-        width:90vw;
+        width:95vw;
         margin-left:20px 0;
         padding: 25px 0;
     }
 
     .pricing .pricing-content .pricing-item {
         display: block;
-        width: 100vw;
+        width: 95vw;
     }
 
     .pricing .pricing-content .pricing-item .pricing-column {
@@ -1214,12 +1214,12 @@ footer .social-icons a i {
     .pricing .pricing-content .feature-details .feature-column li {
         margin: 0;
         padding: 0;
-        width: 100vw;
+        width: 95vw;
     }
 
     .pricing .pricing-content .pricing-ending {
         display: block;
-        width: 100vw;
+        width: 95vw;
         margin: 20px 0;
     }
 
@@ -1243,7 +1243,7 @@ footer .social-icons a i {
     }
 
     .portfolio .portfolio-content .data .column {
-        width: 100vw;
+        width: 95vw;
         margin: 20px 0px 30px 0px;
     }
 
@@ -1301,7 +1301,7 @@ footer .social-icons a i {
     .case .case-content .questions h2 .plus {
         font-size: 15px;
         position: absolute;
-        right: 3%;
+        right: 2vw;
     }
 
     .case .case-content .questions p {
@@ -1449,7 +1449,7 @@ footer .social-icons a i {
        .services .services-content .inner-items {
         margin=left:0;
         padding-left:0;
-        width: 95vw;
+        width: 90vw;
     }
 
     .portfolio .portfolio-content .comment {
@@ -1473,12 +1473,11 @@ footer .social-icons a i {
         width: 80vw;
         left: 5vw;
         line-height: 15px;
-        ;
         top: 10%;
     }
 
     footer {
-        width: 100vw;
+        width:95vw;
         margin:15px 0;
 
     }
@@ -1510,7 +1509,7 @@ footer .social-icons a i {
         .services .services-content .inner-items {
         margin=left:0;
         padding-left:0;
-        width: 95vw;
+        width:85vw;
     }
     .case .case-content .questions h2 .plus {
         right:-10vw;
