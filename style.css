@@ -929,7 +929,7 @@ footer .social-icons a i {
 
     .services .services-content .inner-items .item {
         display: flex;
-        width: 98vw;
+        width: 90vw;
         margin: 15px 5px 15px 5px;
     }
 
@@ -1121,7 +1121,7 @@ footer .social-icons a i {
     }
 
     .home-content,.services-content .pricing-content,.portfolio-content,.about-cotent{
-        width: 95vw;
+        width: 90vw;
         display: block;
         margin: 0;
     }
