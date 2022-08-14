@@ -1418,7 +1418,7 @@ footer .social-icons a i {
         height: 100vh;
     }
 
-    .services .services-content .inner-items part {
+    .services .services-content .inner-items{
         margin=left:0;
         padding-left:0;
         width: 95vw;
@@ -1446,7 +1446,7 @@ footer .social-icons a i {
         left: 45vw;
     }
 
-       .services .services-content .inner-items part {
+       .services .services-content .inner-items{
         margin=left:0;
         padding-left:0;
         width: 90vw;
@@ -1506,10 +1506,8 @@ footer .social-icons a i {
     .max-width {
         width: 320px;
     }
-        .services .services-content .inner-items part {
-        margin=left:0;
-        padding-left:0;
-        width:85vw;
+        .services .services-content .inner-items{
+        width:85%;
     }
     .case .case-content .questions h2 .plus {
         right:-10vw;
